@@ -10,7 +10,7 @@
   (Using MongoDB, Node.js, Express.js, TypeScript)
 
 ## Pinned Projects
-- **[PollMaster-OnlineVotingSystem](https://github.com/fawazabdganiyu/PollMaster-OnlineVotingSystem)**  
+- **[PollMaster - Online Voting System](https://github.com/Fawazabdganiyu/Online-Voting-App)**  
   Collaborated on crafting scalable back-end services using Python-Flask, improving server response time by 20%.
 
 - **[Kajola - Hyperlocal Marketplace Service App](https://github.com/fawazabdganiyu/Kajola)**  
@@ -22,6 +22,7 @@
 - **Front-end:** HTML5, CSS, JavaScript, jQuery
 - **Tools & Platforms:** Git, Docker, NGINX, Linux, CI/CD
 
+## Additional Information
 📄 [Resume](https://drive.google.com/file/d/18hBzd3WG8sKZNGcTYVeBbanpS-lmLCFm/view?usp=drive_link)  
 🌐 [LinkedIn](https://www.linkedin.com/in/fawazabdganiyu/)
 
