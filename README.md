@@ -1,5 +1,5 @@
 ## Hi there 👋 
-## I am Fawaz Abdganiyu
+## I am Fawaz Opeyemi Abdganiyu
 
 🛠️ Backend Developer Intern @ Tobams Group | Leveraging MongoDB, Node.js, Express.js, and TypeScript  
 🌟 Passionate Software Engineer with experience in both back-end and front-end technologies.  
