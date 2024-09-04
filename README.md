@@ -22,6 +22,9 @@
 - **Front-end:** HTML5, CSS, JavaScript, jQuery
 - **Tools & Platforms:** Git, Docker, NGINX, Linux, CI/CD
 
+## Additional Profiles
+- [Work GitHub Account](https://github.com/Fawaz-codes)
+
 ## Additional Information
 📄 [Resume](https://drive.google.com/file/d/18hBzd3WG8sKZNGcTYVeBbanpS-lmLCFm/view?usp=drive_link)  
 🌐 [LinkedIn](https://www.linkedin.com/in/fawazabdganiyu/)
