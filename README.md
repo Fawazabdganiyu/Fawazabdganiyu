@@ -24,6 +24,7 @@
 
 ## Additional Profiles
 - [Work GitHub Account](https://github.com/Fawaz-codes)
+- [![roadmap.sh](https://roadmap.sh/card/tall/66f3d09fc45e253cb0457003?variant=dark)](https://roadmap.sh)
 
 ## Additional Information
 📄 [Resume](https://drive.google.com/file/d/18hBzd3WG8sKZNGcTYVeBbanpS-lmLCFm/view?usp=drive_link)  
