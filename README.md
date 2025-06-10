@@ -9,20 +9,19 @@
   Collaborated on crafting scalable back-end services using Python-Flask, improving server response time by 20%.
 
 - **[Kajola - Hyperlocal Marketplace Service App](https://github.com/fawazabdganiyu/Kajola)**  
-  Developed robust APIs with Express.js, and managed NoSQL databases with MongoDB. Increased data handling efficiency by 35%.
+  Developed robust APIs with Express.js and managed NoSQL databases with MongoDB. Increased data handling efficiency by 35%.
 
 ## Languages & Tools:
-- **Languages:** C, Python, JavaScript, TypeScript, Node.js
-- **Back-end:** Node.js, Express.js, MongoDB, Redis
+- **Languages:** C, Python, JavaScript, TypeScript
+- **Back-end:** Python, MySQL, Node.js, Express.js, MongoDB, Redis, NestJS
 - **Front-end:** HTML5, CSS, JavaScript, jQuery
 - **Tools & Platforms:** Git, Docker, NGINX, Linux, CI/CD
 
 ## Additional Profiles
 - [Work GitHub Account](https://github.com/Fawaz-codes)
-- [![roadmap.sh](https://roadmap.sh/card/tall/66f3d09fc45e253cb0457003?variant=dark)](https://roadmap.sh)
-
+<!-- - [![roadmap.sh](https://roadmap.sh/card/tall/66f3d09fc45e253cb0457003?variant=dark)](https://roadmap.sh) -->
 ## Additional Information
-📄 [Resume](https://drive.google.com/file/d/18hBzd3WG8sKZNGcTYVeBbanpS-lmLCFm/view?usp=drive_link)  
+📄 [Resume](https://drive.google.com/file/d/1t4bN3uiCmYiveKHXLmmEeva4DdECMI5b/view?usp=sharing)  
 🌐 [LinkedIn](https://www.linkedin.com/in/fawazabdganiyu/)
 
 
