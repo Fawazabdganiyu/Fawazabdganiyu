@@ -10,8 +10,6 @@
 - **Front-end:** HTML5, CSS, JavaScript, jQuery
 - **Tools & Platforms:** Git, Docker, NGINX, Linux, CI/CD
 
-## Additional Profiles
-- [Work GitHub Account](https://github.com/Fawaz-codes)
 <!-- - [![roadmap.sh](https://roadmap.sh/card/tall/66f3d09fc45e253cb0457003?variant=dark)](https://roadmap.sh) -->
 
 <!--
