@@ -4,13 +4,6 @@
 🌟 Passionate Software Engineer with experience in both back-end and front-end technologies.  
 📚 Lifelong learner focused on creating innovative software solutions.  
 
-## Pinned Projects
-- **[PollMaster - Online Voting System](https://github.com/Fawazabdganiyu/Online-Voting-App)**  
-  Collaborated on crafting scalable back-end services using Python-Flask, improving server response time by 20%.
-
-- **[Kajola - Hyperlocal Marketplace Service App](https://github.com/fawazabdganiyu/Kajola)**  
-  Developed robust APIs with Express.js and managed NoSQL databases with MongoDB. Increased data handling efficiency by 35%.
-
 ## Languages & Tools:
 - **Languages:** C, Python, JavaScript, TypeScript
 - **Back-end:** Python, MySQL, Node.js, Express.js, MongoDB, Redis, NestJS
@@ -20,10 +13,6 @@
 ## Additional Profiles
 - [Work GitHub Account](https://github.com/Fawaz-codes)
 <!-- - [![roadmap.sh](https://roadmap.sh/card/tall/66f3d09fc45e253cb0457003?variant=dark)](https://roadmap.sh) -->
-## Additional Information
-📄 [Resume](https://drive.google.com/file/d/1t4bN3uiCmYiveKHXLmmEeva4DdECMI5b/view?usp=sharing)  
-🌐 [LinkedIn](https://www.linkedin.com/in/fawazabdganiyu/)
-
 
 <!--
 **Fawazabdganiyu/Fawazabdganiyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
